@@ -1,52 +1,40 @@
-<h1 align="center">Hi 👋, I'm Satwika</h1>
-<h3 align="center">B.Tech CSE (IoT) Student | Python & IoT Enthusiast | Embedded Systems Developer</h3>
+# Hi 👋, I'm Nukala Satwika
+A passionate student & beginner developer from India
+
+- 🌱 I’m currently learning **Python, C++ & Arduino IoT Projects**
+- 💡 Interested in **Smart IoT Projects & Frontend Web Development**
+- 📫 Reach me at **nukalasatwika247@gmail.com**
+- ⚡ Fun fact: I enjoy building small projects and exploring new tech
 
 ---
 
-### 🚀 About Me
-- 🎓 Currently pursuing **B.Tech in Computer Science & Engineering (IoT specialization)**
-- 💻 Passionate about **IoT, Embedded Systems, and Full-Stack Development**
-- 🔭 Projects include **Gas Detector Bot**, **Military Spying Robot**, and **Smart Manhole Detection**
-- 🌱 Learning **Python, React.js, Django, and Arduino**
-- ⚡ Fun fact: I love building **smart IoT solutions** for real-world problems
+### 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nukala-satwika-963907294/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nukalasatwika247@gmail.com)
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/>
-</p>
+### 🛠 Languages and Tools:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-### 📌 Featured Projects
-1. **[Gas Detector Bot with GSM Alerts](#)** – Detects gas leaks and sends SMS alerts  
-2. **[Military Spying & Bomb Disposal Robot](#)** – IoT-based remote-controlled robot  
-3. **[Smart Manhole Detection](#)** – Prevents accidents with smart monitoring  
+### 📊 GitHub Stats:
+![Satwika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NukalaSatwika&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NukalaSatwika&layout=compact&theme=radical)
 
-*(Add GitHub repo links when you upload them)*
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NukalaSatwika&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NukalaSatwika&layout=compact&theme=tokyonight" height="150"/>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=NukalaSatwika&style=for-the-badge)
 
 ---
 
-### 📫 Connect with Me
-- **LinkedIn:** [Nukala Satwika](https://linkedin.com/in/nukala-satwika-963907294)  
-- **Email:** satwika247@gmail.com  
+### 🌟 Pinned Projects:
+- 🔹 **Gas Detector Bot with GSM Alert**
+- 🔹 **Military Spying & Bomb Disposal Robot**
+- 🔹 **SmartCookie Website Clone**
 
 ---
-⭐ *“Passionate about building smart solutions for a better future.”*  
-
